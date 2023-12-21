@@ -61,7 +61,7 @@ async function handleRequest(request) {
     const results = await gatherResponse(response);
     console.log(`upstream token result: ${results}`);
 
-    return new Response(results, init);
+    return new Response(null);
 }
 
 addEventListener("fetch", event => {
