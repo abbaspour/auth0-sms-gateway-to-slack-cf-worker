@@ -1,0 +1,9 @@
+{
+  "recipient": "+61040000000",
+  "body": "Your one-time password is 606070",
+  "sender": "+15555555555",
+  "req": {
+    "ip": "125.168.130.208",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0"
+  }
+}
